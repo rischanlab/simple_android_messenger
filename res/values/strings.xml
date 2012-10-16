@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RischanDroidMessenger v1.0 - Indocoding</string>
+    <color name="Black">#000000</color>
+    <color name="Red">#FF0000</color>
+    <color name="White">#FFFFFF</color>
+    <color name="Yellow">#FFE300</color>
+    <color name="Gray">#C0C0C0</color>
+    <color name="Green">#00FF00</color>
+</resources>
